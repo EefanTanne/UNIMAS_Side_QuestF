@@ -1,3 +1,6 @@
+//Fix: Corrected login page spelling
+//Fix: Login page name is fixed.
+
 import 'package:firebase_core/firebase_core.dart'; // Import Firebase Core
 import 'package:flutter/material.dart';
 import 'firebase_options.dart'; // Import generated Firebase options
