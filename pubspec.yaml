@@ -1,6 +1,7 @@
 name: usq
 description: "A new Flutter project."
 publish_to: 'none'
+# major update done
 version: 0.1.0
 
 environment:
