@@ -12,8 +12,4 @@
 * Listings should clearly describe the task, location, and any payment.
 
 
-
-
-
-MAJOR UPDATE
-
+  //sizseven
