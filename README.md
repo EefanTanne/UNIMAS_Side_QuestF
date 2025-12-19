@@ -15,5 +15,5 @@
 
 
 
-MAJOR UPDATE
+
 
